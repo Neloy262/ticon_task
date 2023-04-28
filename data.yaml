@@ -1,0 +1,13 @@
+train: TRAIN_DIRECTORY
+val: VAL_DIRECTORY
+test: TEST_DIRECTORY
+
+nc: 2
+names: ['cat', 'dog']
+
+roboflow:
+  workspace: ticon
+  project: dogs-and-cats-t43j2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ticon/dogs-and-cats-t43j2/dataset/1
