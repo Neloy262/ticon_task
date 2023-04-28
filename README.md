@@ -8,3 +8,5 @@ After that we need to install the dependencies listed in the requirements.txt of
 To run the server we just neeed to run the app.py file. To test the server we can run the test.py file.
 
 For training the model I used the scripts given in the yolov5 repository. I only changed the data.yaml since there are only 2 classes and specified the dataset directory.
+
+Details about the training experiments can be found in the pdf file.
