@@ -10,3 +10,5 @@ To run the server we just neeed to run the app.py file. To test the server we ca
 For training the model I used the scripts given in the yolov5 repository. I only changed the data.yaml since there are only 2 classes and specified the dataset directory.
 
 Details about the training experiments can be found in the pdf file.
+
+The dataset can be downloaded from https://drive.google.com/file/d/1vQOfVQxFn9JDWHHMCNPVToS8EPZp-gSt/view?usp=sharing
